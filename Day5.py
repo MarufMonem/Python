@@ -18,4 +18,4 @@ nums.pop()
 
 print(nums)
 print(min(nums))
-print(min(names)) -> counts the characters
+print(min(names))  #counts the characters
