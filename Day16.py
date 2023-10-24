@@ -12,5 +12,4 @@ print(math.ceil(y))
 print(math.pow(z,2))
 print(z**2)
 
-# specific functions from math
-from math import sqrt, pow
+
