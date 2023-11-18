@@ -12,4 +12,6 @@ class computer:
         print("Class variable: " + computer.cpuName)
 
 obj = computer("i5", "16GB")
+# Updating instance variables
+obj.cpuName = "i7"
 obj.method1()
